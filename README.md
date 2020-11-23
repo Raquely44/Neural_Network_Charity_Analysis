@@ -34,7 +34,7 @@ How many neurons, layers, and activation functions did you select for your neura
 - For the trial to improve the accuracy of the model three layers were added and the number of neurons was increased as noted in the images below. I found that adding layers did not improve the accuracy, rather it stayed the same about 72%. For my last attempt I removed the third layer and increased the neurons to 200 for the first layer and 80 for the second layer. I increased the neurons for each attempt because there was a larger distribution of data points with in each feature.
 
 
-<img src="Resources/second_summary.png" width=100 height=200>
+<img src="Resources/second_summary.png" width=400>
 <img src="Resources/second_result.png" width=400>
 <img src="Resources/third_summary.png" with=100 height=200>
 <img src="Resources/third_result.png" width=400>
