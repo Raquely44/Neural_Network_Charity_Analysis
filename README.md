@@ -26,16 +26,17 @@ I determined the "EIN" and "NAME" should be removed because they seemed to be in
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - For the first iteration there were two layers used and 80 neurons were in the first layer and 30 in the second. relu and sigmoid were used as the data used was no less than 0 and we were only looking to predict if an applicant was successful.
-<img scr="Resources/first_summary" with=300>
+<img scr="Resources/first_summary.png" with=300>
 
 - For the trial to improve the accuracy of the model three layers were added and the number of neurons was increased as noted in the images below. I found that adding layers did not improve the accuracy, rather it stayed the same about 72%. For my last attempt I removed the third layer and increased the neurons to 200 for the first layer and 80 for the second layer. I increased the neurons for each attempt because there was a larger distribution of data points with in each feature.
 
-<img scr="Resources/second_summary" with=300>
-<img scr="Resources/second_result" width=300>
-<img scr="Resources/third_summary" with=300>
-<img scr="Resources/third_result" width=300>
-<img scr="Resources/fourth_summary" with=300>
-<img scr="Resources/fourth_result" width=300>
+<img scr="Resources/second_summary.png" width=300>
+<img scr="Resources/second_summary.png" width=300>
+<img scr="Resources/second_result.png" width=300>
+<img scr="Resources/third_summary.png" with=300>
+<img scr="Resources/third_result.png" width=300>
+<img scr="Resources/fourth_summary.png" with=300>
+<img scr="Resources/fourth_result.png" width=300>
 
 Were you able to achieve the target model performance?
 no
